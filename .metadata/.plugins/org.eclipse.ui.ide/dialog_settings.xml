@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/estudiante/eclipse-workspace/nominasProg"/>
+			<item value="/home/estudiante/eclipse-workspace/nominasDemo"/>
+			<item value="C:\Users\raul-\eclipse-workspace\nominasDemo"/>
+			<item value="/home/estudiante/eclipse-workspace/BBDDFicheros"/>
+			<item value="C:\Users\raul-\eclipse-workspace\nomina"/>
+			<item value="C:\Users\raul-\eclipse-workspace\boletinJUnit"/>
+			<item value="C:\Users\raul-\eclipse-workspace\boletin_bbdd"/>
+			<item value="C:\Users\raul-\eclipse-workspace\boletin_ficheros"/>
+			<item value="C:\Users\raul-\eclipse-workspace\Nomina1Raul-def"/>
+			<item value="C:\Users\raul-\eclipse-workspace\Nomina1Raul"/>
+			<item value="C:\Users\raul-\eclipse-workspace\Nomina1JoseVicente"/>
+			<item value="C:\Users\raul-\eclipse-workspace\TareasProgramacion"/>
+			<item value="C:\Users\raul-\eclipse-workspace\Acceso_Ficheros"/>
+			<item value="C:\Users\raul-\eclipse-workspace\BBDDFicheros"/>
+			<item value="C:\Users\raul-\eclipse-workspace\BBDD_JDBC"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

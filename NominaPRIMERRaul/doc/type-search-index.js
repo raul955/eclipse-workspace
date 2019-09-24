@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Laboral","l":"CalcularNominas"},{"p":"Laboral","l":"DatosIncorrectosException"},{"p":"Laboral","l":"Empleado"},{"p":"Laboral","l":"Nomina"},{"p":"Laboral","l":"Persona"},{"p":"Laboral","l":"ValidadorDNI"}]

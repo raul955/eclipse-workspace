@@ -1,0 +1,2 @@
+nombre:James Cosling dni:48124096T categoria:9 años:7 ,sueldo:245000
+nombre:Ada Lovelace dni:48811600B categoria:1 años:1 ,sueldo:55000

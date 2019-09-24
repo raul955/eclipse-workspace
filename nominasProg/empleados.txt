@@ -1,0 +1,2 @@
+Empleado [categoria=9, anyos=7, nombre=James Cosling, dni=32000032G, sexo=M]
+Empleado [categoria=1, anyos=0, nombre=Ada Lovelace, dni=32000031R, sexo=F]
